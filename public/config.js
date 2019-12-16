@@ -1,5 +1,5 @@
 var Config = {
   requestURL:
-    "https://app.coco.imperson.com/api/exchange/competition_vp3/kweek",
-  firstMessage: "Hello!"
+    "http://localhost:3000/helloworld",
+  firstMessage: "CoCo Chatbot Competition - Berlin 2019\nGraham Robertson - Glasgow\n\n[Title of App Here]"
 };
