@@ -8,6 +8,6 @@ function generateUID() {
     return firstPart + secondPart;
 };
 var Config = {
-	requestURL: `http://localhost:3000/coco/${generateUID()}`,
+	requestURL: `http://67.207.69.19:3000/coco/${generateUID()}`,
 	firstMessage: "Welcome to Coco, Inc."
 };
